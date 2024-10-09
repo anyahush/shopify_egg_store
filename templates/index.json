@@ -114,17 +114,17 @@
         "padding_bottom": 36
       }
     },
-    "172845808504f11a95": {
+    "17284628859dcd460e": {
       "type": "apps",
       "blocks": {
-        "bb_marketing_preferences_account_email_preferences_dnU6xB": {
+        "bb_marketing_preferences_account_email_preferences_p9BmBA": {
           "type": "shopify://apps/bb-marketing-preferences/blocks/account-email-preferences/8f676e5e-9ce1-41b2-bb8d-baeac63f5cda",
           "settings": {
           }
         }
       },
       "block_order": [
-        "bb_marketing_preferences_account_email_preferences_dnU6xB"
+        "bb_marketing_preferences_account_email_preferences_p9BmBA"
       ],
       "settings": {
         "include_margins": true
@@ -241,7 +241,7 @@
     "image_banner",
     "rich_text",
     "featured_collection",
-    "172845808504f11a95",
+    "17284628859dcd460e",
     "collage",
     "video",
     "multicolumn"
